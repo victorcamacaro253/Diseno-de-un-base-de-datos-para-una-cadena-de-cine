@@ -1,4 +1,4 @@
-Diseñi de una base de datos para un sistema online de venta de boletos de una cadena de cine desarrollado en MYSQL
+Diseño de una base de datos para un sistema online de venta de boletos de una cadena de cine desarrollado en MYSQL
 Base de dato contiene:
 -18 tablas todas con sus llave primaria
 -Las tabla relacionadas contienen su llave foranea
@@ -9,5 +9,5 @@ El sistema esta diseñado para tener dos roles:
 
 
 Anexo:
--Diagrama MER de la base de datos (sujeto a cambios)
--Prototipo de la arquitectura del sistema en la nube usando AWS (sujeto a cambios)
+-Diagrama MER de la base de datos (sujeto a cambios dependiendo de la modificaiones y escalabilidad del sistema)
+-Prototipo de la arquitectura del sistema en la nube usando AWS (sujeto a cambios  dependiendo de la modificaiones y escalabilidad del sistema)
